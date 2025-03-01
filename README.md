@@ -1,4 +1,4 @@
-# Project Overview
+# King County Real Estate Pricing Prediction Model
 This project showcases a **Multiple Linear Regression Model** to predict **real estate prices** in King County, WA, supporting data-driven real estate decisions. This model uses real housing data provided to the public from 2014 to 2015. We compared the predicted prices with the actual prices and found it to have 73% accuracy. 
 
 # Key Components
