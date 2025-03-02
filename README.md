@@ -39,6 +39,6 @@ Find and select the best model from the tests
 
 -Joyce Hung
 
--Hamza Kiany
+-Hamza Kiani
 
 
