@@ -31,6 +31,11 @@ Test different combinations
 
 Find and select the best model from the tests
 
+# Team
 
+-Kevin Huang
+-Afshan Ijaz
+-Joyce Hung
+-Hamza Kiany
 
 
